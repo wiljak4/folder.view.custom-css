@@ -5,3 +5,5 @@
 ### Installation instruction
 
 Download and import the [custom CSS](docker.css) in the FolderView settings.
+
+### Latest working version => 2023.08.08
