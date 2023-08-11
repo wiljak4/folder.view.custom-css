@@ -3,4 +3,4 @@ Custom styles for the FolderView plugin
 
 ---
 
-- [hernandito](hernandito/README.md)
+- [hernandito](https://github.com/hernandito/folder.view.custom)
